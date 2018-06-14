@@ -11,9 +11,12 @@ Durée: 3heures.
 ## Exercices
 
 * **Exercice 1 - lier son html avec jQuery**   
-	Objectif: Lier un html vierge avec jQuery
+	Objectif: Lier un html vierge avec jQuery.
+	
     Vous pouvez soit le lié en local ou en ligne.
+    
     Prendre le html Exercice_01
+    
   Condition de reussite : Faire apparaitre le texte suivant : "Hello Johnson!" en n'utilisant que jQuery
 
 * **Exercice 2 - Faire du css sans du css**  
