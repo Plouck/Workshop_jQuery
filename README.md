@@ -24,11 +24,11 @@ Durée: 3heures.
   Objectif: Créer un formulaire via jQuery
     Prendre le html Exercice_03
   Condition de reussite : 
-  1.Avoir un champ "text" pour le pseudo
-2.Deux champs "password" avec le mot de passe , dont le deuxieme vérifie le premier champ
-3.Un champ "text" pour l'e-mail
-4.un bouton envoyer
-5.un bouton raffraichir
+1. Avoir un champ "text" pour le pseudo
+2. Deux champs "password" avec le mot de passe , dont le deuxieme vérifie le premier champ
+3. Un champ "text" pour l'e-mail
+4. un bouton envoyer
+5. un bouton raffraichir
 * **Correction dans le repop**
 Il est dans le dossier Exerice_03_corr
 
