@@ -20,12 +20,16 @@ Durée: 3heures.
   Condition de reussite : Faire apparaitre le texte suivant : "Hello Johnson!" en n'utilisant que jQuery
 
 * **Exercice 2 - Faire du css sans du css**  
+
   Objectif: Apporter des modification css via jQuery
+  
   Condition de reussite : Faire un paragraphe sur un html vierge et afficher le texte en rouge dans un cadre noir.
   
 * **Exercice 3 - Formulaire interactif ( Difficile )**  
   Objectif: Créer un formulaire via jQuery
+  
     Prendre le html Exercice_03
+    
   Condition de reussite : 
 1. Avoir un champ "text" pour le pseudo
 2. Deux champs "password" avec le mot de passe , dont le deuxieme vérifie le premier champ
